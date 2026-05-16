@@ -54,7 +54,7 @@
   width: 1126px;
   max-width: 100%;
   margin: 0 auto;
-  text-align: center;
+  text-align: left;
   border-inline: 1px solid var(--border);
   min-height: 100svh;
   display: flex;
@@ -108,4 +108,23 @@ code {
   line-height: 135%;
   padding: 4px 8px;
   background: var(--code-bg);
+}
+
+.booking-engine{
+  padding-left: 50px;
+}
+
+.available-asset{
+  padding-left: 100px;
+}
+
+.head-one{
+  text-align:left ;
+}
+
+.button{
+  color: blue;
+}
+.button-hover{
+  size: 100px;
 }
